@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @itsNaleeka
-- 👀 I’m interested in Mobile app development, web development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me send me a mail (knaleeka845@gmail.com)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsNaleeka.itsNaleeka&left_text=Visitors" />
 
-<!---
-itsNaleeka/itsNaleeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=36B828&background=0D1117&center=true&width=435&lines=Hello+Fellow+Traveler!;It's+Naleeka+%F0%9F%91%BD](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=36B828&background=0D1117&width=485&height=72&lines=Hello+Fellow+Traveler!;It's+Naleeka+%F0%9F%91%BD" />
+</h1>
