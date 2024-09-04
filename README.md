@@ -1,45 +1,22 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsNaleeka.itsNaleeka&left_text=Visitors" />
-
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=36B828&background=0D1117&center=true&width=435&lines=Hello+Fellow+Traveler!;It's+Naleeka+%F0%9F%91%BD](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=36B828&background=0D1117&width=485&height=72&lines=Hello+Fellow+Traveler!;It's+Naleeka+%F0%9F%91%BD" />
-</h1>
-
----
-
-<br/><br/><br/>
-
 <div align="center">
 
-## Languages Framework Tools
+  ## 🌐 Socials:
+   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naleeka_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naleeka-kumarasinghe) 
   
-</div>
-
-
-<p align="center">
+  # 💻 Tech Stack:
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  # 📊 GitHub Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=itsNaleeka&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=itsNaleeka&theme=chartreuse-dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsNaleeka&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,figma,idea,react,xd&perline=6" />
-  </a>
-</p>
+  ## 🏆 GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=itsNaleeka&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+  
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+  
+  ---
+  [![](https://visitcount.itsvg.in/api?id=itsNaleeka&icon=3&color=6)](https://visitcount.itsvg.in)
 
-
-<br/>
-
-<div align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=itsNaleeka&theme=dark&border_radius=8" alt="GitHub Streak" />
-</div>
-
-<br/>
-<div align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=itsNaleeka&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=itsNaleeka&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=itsNaleeka&show_icons=true" />
-</picture>
 </div>
